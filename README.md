@@ -1,4 +1,4 @@
-# RESTful API Direct
+# RESTful API Directory
 
 A list of useful RESTful APIs for use in application development.
 
