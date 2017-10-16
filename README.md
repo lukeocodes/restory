@@ -16,4 +16,4 @@ All contributions welcome!
 
 | API | Description | Page | Repo
 | --- | ----------- | :--------: | :-: |
-| Marvel | *Marvel Comics API*. The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. | https://developer.marvel.com/documentation/getting_started |  |
+| Marvel | *Marvel Comics API*. The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. | https://developer.marvel.com/ |  |
