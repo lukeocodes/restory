@@ -1,8 +1,3 @@
-# RESTful API Direct
-
-A list of useful RESTful APIs for use in application development.
-
-All contributions welcome!
 
 ## Public APIs
 
@@ -15,14 +10,12 @@ All contributions welcome!
 | Punk API | *Brewdog API*. Have you ever wanted to search through Brewdog's expansive back catalogue of beer in a programmatic way? | [![go to Site][link-icon]](https://punkapi.com/) | [![view it on Github][github-icon]](https://github.com/samjbmason/punkapi-db) |
 | PotterAPI | *Harry Potter API*. PotterAPI is a RESTful web API providing data on all your favourite Books, Films, Characters and Spells. | [![go to Site][link-icon]](http://potterapi.herokuapp.com/) | [![view it on Github][github-icon]](https://github.com/ahowell2/PotterAPICode) | 
 
-
 ## Private APIs
 
 | API | Description | Site | Repo
 | --- | ----------- | :--------: | :-: |
 | Marvel | *Marvel Comics API*. The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. | [![go to Site][link-icon]](https://developer.marvel.com/) |  |
 | OMDb API | *Open Movie Database*. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. | [![go to Site][link-icon]](http://www.omdbapi.com/) |  |
-
 
 [link-icon]: https://www.naturamediterraneo.com/forum/immagini/link_icon.gif
 [github-icon]: https://www.codeproject.com/script/Membership/Images/octicons_github.png
