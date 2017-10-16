@@ -12,6 +12,7 @@ A list of useful RESTful APIs for use in application development.
 | Dog API | *Dog API*. Brought to you by Dog CEO using the Stanford Dogs Dataset. | [![go to Site][link-icon]](https://dog.ceo/dog-api/) | [![view it on Github][github-icon]](https://github.com/ElliottLandsborough/dog-ceo-api) |
 | Punk API | *Brewdog API*. Have you ever wanted to search through Brewdog's expansive back catalogue of beer in a programmatic way? | [![go to Site][link-icon]](https://punkapi.com/) | [![view it on Github][github-icon]](https://github.com/samjbmason/punkapi-db) |
 | PotterAPI | *Harry Potter API*. PotterAPI is a RESTful web API providing data on all your favourite Books, Films, Characters and Spells. | [![go to Site][link-icon]](http://potterapi.herokuapp.com/) | [![view it on Github][github-icon]](https://github.com/ahowell2/PotterAPICode) | 
+| PaleobioDB | *Paleobiology DB API*. The Paleobiology Database (PBDB) is a non-governmental, non-profit public resource for paleontological data. | [![go to Site][link-icon]](https://paleobiodb.org/) | [![view it on Github][github-icon]](https://github.com/paleobiodb) |
 
 ## Private APIs
 
