@@ -4,6 +4,8 @@ A list of useful RESTful APIs for use in application development.
 
 ## Public APIs
 
+API's open and free to use, often open source with unrestricted access to data.
+
 | API | Description | Site | Repo
 | --- | ----------- | :--------: | :-: |
 | SWAPI | *Star Wars API*. All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species. From all SEVEN Star Wars films. Now with The Force Awakens data! | [![go to Site][link-icon]](https://swapi.co/) | [![view it on Github][github-icon]](https://github.com/phalt/swapi) |
@@ -15,6 +17,8 @@ A list of useful RESTful APIs for use in application development.
 | PaleobioDB | *Paleobiology DB API*. The Paleobiology Database (PBDB) is a non-governmental, non-profit public resource for paleontological data. | [![go to Site][link-icon]](https://paleobiodb.org/) | [![view it on Github][github-icon]](https://github.com/paleobiodb) |
 
 ## Private APIs
+
+API's that require signup, usually with OAuth access to the service. Not usually open source.
 
 | API | Description | Site | Repo
 | --- | ----------- | :--------: | :-: |
